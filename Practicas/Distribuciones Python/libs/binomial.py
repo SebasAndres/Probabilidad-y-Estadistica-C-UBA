@@ -7,7 +7,7 @@ class Binomial():
     
     def pk(self, k:int) -> float:
         # probabilidad de que hayan k exitos en n ensayos de probabilidad p
-        return combinatorio(self.n, k) * (self.p**(self.k)) * ((1-self.p)**(self.n-k))
+        return combinatorio(self.n, k) * (self.p**(k)) * ((1-self.p)**(self.n-k))
     
     def fx(self, k) -> float:
         return fx_acumulada(self.pk, k)
