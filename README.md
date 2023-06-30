@@ -23,7 +23,7 @@ Archivos correspondientes a la cursada de Probabilidad y Estadistica (C), en Exa
     - [Solucion](Guias/Practica%206%20-%20Estadistica%20Descriptiva/Solucion.ipynb)
   - Práctica 7 ~ Estimadores
     - [Enunciado](Guias/Pr%C3%A1ctica%207%20-%20Estimadores/Enunciado.pdf)
-    - [Solucion](Guias/Pr%C3%A1ctica%207%20-%20Estimadores/Solucion.pdf)
+    - [Solucion](Guias/Pr%C3%A1ctica%207%20-%20Estimadores/Solucion.ipynb)
   - Práctica 8 ~ Intervalos de Confianza
     - [Enunciado](Guias/Practica%208%20-%20Intervalos%20de%20Confianza/Enunciado.pdf)
   - Práctica 9 ~ Test de Hipotesis
