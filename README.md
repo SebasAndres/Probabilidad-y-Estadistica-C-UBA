@@ -1,5 +1,7 @@
 # Probabilidad y Estadistica (C) - Primer Cuatrimestre 2023
 
+En desarrollo...
+
 🐠 🐠 🐠
 Archivos correspondientes a la cursada de Probabilidad y Estadistica (C), en Exactas UBA, el primer cuatrimestre de 2023.
 
@@ -21,6 +23,11 @@ Archivos correspondientes a la cursada de Probabilidad y Estadistica (C), en Exa
     - [Solucion](Guias/Practica%206%20-%20Estadistica%20Descriptiva/Solucion.ipynb)
   - Práctica 7 ~ Estimadores
     - [Enunciado](Guias/Pr%C3%A1ctica%207%20-%20Estimadores/Enunciado.pdf)
+    - [Solucion](Guias/Pr%C3%A1ctica%207%20-%20Estimadores/Solucion.pdf)
+  - Práctica 8 ~ Intervalos de Confianza
+    - [Enunciado](Guias/Practica%208%20-%20Intervalos%20de%20Confianza/Enunciado.pdf)
+  - Práctica 9 ~ Test de Hipotesis
+    - [Enunciado](Guias/Practica%209%20-%20Test%20de%20Hipotesis/Enunciado.pdf)
 
 ## Contenidos
 - 1. Probabilidad: Experimentos aleatorios. Espacios muestrales. Eventos o sucesos. Frecuencia relativa, sus propiedades. Axiomas de probabilidad. Propiedades. Espacios muestrales finitos. Espacios de equiprobabilidad. Probabilidad condicional. Regla del Producto. Partición de un espacio muestral. Teorema de la Probabilidad Total. Teorema de Bayes. Independencia de dos eventos. Independencia de dos o más eventos.
