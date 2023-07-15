@@ -1,9 +1,13 @@
 # Probabilidad y Estadistica (C) - Primer Cuatrimestre 2023
 
-En desarrollo...
-
 🐠 🐠 🐠
 Archivos correspondientes a la cursada de Probabilidad y Estadistica (C), en Exactas UBA, el primer cuatrimestre de 2023.
+
+## Parciales
+
+- [Parcial I (15-05-2023)](/Parciales%20y%20resumenes/Primer%20Parcial/)
+- [Parcial II (04-07-2023)](/Parciales%20y%20resumenes/Segundo%20Parcial/)
+
 
 ## Guias
 
