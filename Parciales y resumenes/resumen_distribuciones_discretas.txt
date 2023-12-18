@@ -1,0 +1,34 @@
+DISTRIBUCIONES DISCRETAS:
+
+Ensayo Bernoulli: Son ensayos que pueden salir bien o mal (1 o 0).
+
+Bernouli:
+X ~ Be(p)
+X = La probabilidad de un exito en un ensayo Bernoulli
+
+Binomial:
+X ~ Binomial(n,p)
+X: # exitos tras n ensayos Bernoulli de probabilidad probabilidad p 
+P(x=k) = (nCk) * p^k * (1-p)^(n-k)
+
+Binomial negativa:
+X ~ BN(r,p)
+X: # ensayos para obtener r exitos en ensayos de Bernoulli de probabilidad P
+
+Geometrica: 
+X ~ Ge(p)
+X: #fracasos hasta el primer exito en un ensayo de Bernoulli
+
+Poisson:
+X ~ Poisson(lambda)
+X: # eventos que suceden en un intervalo de tiempo
+ejemplo: 
+x = # meteoritos que caen en la tierra en un mes 
+
+Hipergeometrica:
+X ~ H(N,K,n)
+N: Total poblacion de elementos
+K: Elementos buenos
+n: Muestra agarrada
+P(X=z) = Probabilidad de agarrar z buenos de una muestra de n elems agarrada.
+
